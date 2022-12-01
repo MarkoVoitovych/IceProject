@@ -5,7 +5,7 @@
   "homepage": "https://markovoitovych.github.io/IceProject/",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /Ice-Project/"
+    "build": "parcel build src/*.html --public-url /IceProject/"
   },
   "repository": {
     "type": "git",
